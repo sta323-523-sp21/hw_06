@@ -178,9 +178,9 @@ final class grade. Please review Duke’s Standards of Conduct.
 
 | **Topic**                           | **Points** |
 |-------------------------------------|-----------:|
-| Task 1                              | 10 `||` 15 |
-| Task 2                              | 10 `||` 15 |
-| Task 3                              | 10 `||` 15 |
+| Task 1                              | 10 or 15   |
+| Task 2                              | 10 or 15   |
+| Task 3                              | 10 or 15   |
 | **Total**                           |     **30** |
 
 *A portion of the points for each task will be allocated to code style.*
