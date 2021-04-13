@@ -55,7 +55,7 @@ write-up.
 
 Below is some starter code to help you think about how to set this up.
 Be sure to do enough replications in your simulation for various
-parameter combinations of `p` and `signma`.
+parameter combinations of `p` and `sigma`.
 
 ```r
 # parameters
