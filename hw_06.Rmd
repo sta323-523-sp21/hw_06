@@ -1,0 +1,12 @@
+---
+title: "Homework 06"
+author: "Team name: member 1, member 2, member 3"
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, comment = NA, message = FALSE, 
+                      warning = FALSE)
+```
+
